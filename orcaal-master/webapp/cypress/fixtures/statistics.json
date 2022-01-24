@@ -1,0 +1,24 @@
+{
+    "accuracy": {
+        "train": [0.5986394286155701],
+        "validation": [0.6326530575752258]
+    },
+    "accuracyVLabels": {
+        "accuracies": [0.644444465637207, 0.6326530575752258],
+        "dates": [
+            "Tue, 18 Aug 2020 22:34:32 GMT",
+            "Tue, 18 Aug 2020 22:50:40 GMT"
+        ],
+        "labels": [126, 147]
+    },
+    "confusionMatrix": [9, 11, 7, 22],
+    "loss": {
+        "train": [0.8761522173881531],
+        "validation": [0.7891138195991516]
+    },
+    "retrain": {
+        "goal": 20,
+        "progress": 0
+    },
+    "training": false
+}
